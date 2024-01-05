@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url("./assets/Login/laptop-office-plant-black-background-top-view.jpg");
+  background-image: url("/assets/Login/laptop-office-plant-black-background-top-view.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -50,7 +50,7 @@ border-radius: 5px;
 .hi {
 text-align: center;
 color: rgb(0, 0, 0);
-background-image: url("./assets/Login/joanna-kosinska-7ACuHoezUYk-unsplash.jpg");
+background-image: url("/assets/Login/joanna-kosinska-7ACuHoezUYk-unsplash.jpg");
 background-size: cover;
 background-position: center;
 -webkit-background-clip: text;
